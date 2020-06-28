@@ -1,3 +1,9 @@
+#PRAW setup Files
+praw.ini
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
